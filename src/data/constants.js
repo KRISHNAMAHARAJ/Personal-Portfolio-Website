@@ -165,6 +165,49 @@ export const skills = [
     },
 ];
 
+export const experiences = [
+    {
+        id: 0,
+        img: "https://kavach.mic.gov.in/img/kavach-logo-black.png",
+        
+        role: "Frontend Developer ",
+        company: "Kavach 2023, Government of India",
+        date: "Jan 2023 - Feb 2023",
+        desc: "Our team made a Fake News Alert System by using Artifical Intelligence and MAchine Learning and displayed it on a website.",
+        skills: [
+            "HTML",
+            "CSS",
+            "BootStrap",
+            "Machine Learning",
+            "Artificial Intelligence",
+            "Python",
+            "JavaScript",
+            "Flask",
+            "Node Js",
+            " C++",
+        ],
+    },
+    {
+        id: 1,
+        img: "data:image/jpeg;base64,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",
+        role: "Event Coordinator",
+        company: "Manufest, SME",
+        date: "Sep 2022 - Oct 2022",
+        desc: "Worked as the event coordinator for Manufest which was held in GRAVITAS (The annual tech fest of VIT Vellore).",
+        skills: [
+            "Team Management",
+            "Project Management",
+            "Leadership Skills",
+            "Technical Skills",
+            "Team Management",
+            "Decision Making",
+            "Problem Solving",
+            "Communication",
+            "Active Listening",
+            "Strategy",
+        ],
+    },
+];
 
 
 export const education = [
@@ -194,6 +237,48 @@ export const education = [
         grade: "91%",
         desc: "I completed my class 10 education at Gyan Niketan, Patna.",
         degree: "CBSE",
+    },
+];
+
+export const projects = [
+    {
+        id: 0,
+        title: "Reciepe Website",
+        date: "Oct 2023",
+        description:
+            "In this website you have to enter a dish name in the website, and my website will return you its recipe, ingredients and all.",
+        image:
+            "https://github.com/yuppthatscool/images_portfolio/blob/main/getimg/Reciepe%20Website.png?raw=true",
+        tags: ["HTML", "CSS", "JavaScript", "API", "BootStrap"],
+        category: "android app",
+        github: "https://github.com/piyushkumar24/ReciepeWebsite",
+        webapp: "https://text-to-speech-nine-phi.vercel.app/",
+    },
+    {
+        id: 1,
+        title: "Image Search Website",
+        date: "Oct 2023",
+        description:
+            "This Website is an Image Search Website. Search anything and you will get copyright free images of it available.",
+        image:
+            "https://github.com/yuppthatscool/images_portfolio/blob/main/getimg/Image%20Search%20Website.png?raw=true",
+        tags: ["HTML", "CSS", "JavaScript", "API", "BootStrap"],
+        category: "android app",
+        github: "https://github.com/piyushkumar24/ImageSearchWebsite",
+        webapp: "https://image-search-website-git-main-piyushkumar24s-projects.vercel.app/",
+    },
+    {
+        id: 3,
+        title: "Text To Speech Converter",
+        date: "Sep 2023",
+        description:
+            "Enter any text and listen it. Here the text is converted into speech.",
+        image:
+            "https://github.com/yuppthatscool/images_portfolio/blob/main/getimg/TextToSpeech.png?raw=true",
+        tags: ["HTML", "CSS", "JavaScript", "API"],
+        category: "android app",
+        github: "https://github.com/piyushkumar24/TextToSpeech",
+        webapp: "https://bubble-game-fzwd.vercel.app/",
     },
 ];
 
