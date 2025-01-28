@@ -10,7 +10,7 @@ export const Bio = {
         "I'm a driven, adaptable person that is constantly willing to take on new tasks. I have a strong commitment to producing results of the highest calibre. I'm prepared to contribute meaningfully and accomplish great things because I have a good attitude and a growth mindset.",
     github: "https://github.com/KRISHNAMAHARAJ",
     resume:
-        "https://resume.io/r/Ro98u274Y",
+        "https://drive.google.com/file/d/1yL6lROK6mwweD3ohus0q9b9eEn1kXOFy/view?usp=drive_link",
     linkedin: "https://www.linkedin.com/in/krishna-maharaj-nayan-bb944b264/",
     insta: "https://www.instagram.com/me_krishna_maharaj_nayan/",
 };
